@@ -62,7 +62,7 @@ Assume your script name is **custom-react-scripts**
 {
   "name": "custom-react-scripts",
 + "bin": {
-+    custom-recat-scripts: "./bin/custom-react-scripts.js"
++    custom-react-scripts: "./bin/custom-react-scripts.js"
 +  }
 + "main": "./crs.config.js"
    ...
